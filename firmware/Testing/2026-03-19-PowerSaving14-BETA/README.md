@@ -10,6 +10,10 @@
 * BLE connection will be maintained all the times. 
 * You should feel no difference and delay compared to the stock MeshCore v1.14.
 
+Notes:
+* Heltec v4: On iPhone, Heltec v4 with battery seems disconnected and unable to reconnrect after a while. Heltec v4 with usb power works fine.
+* Heltec v3: Very stable on battery / usb cable with Android phone.
+
 <img height="384" alt="image" src="https://github.com/user-attachments/assets/b6d96d71-fb78-46bd-a134-51c34a8a79be" />
 <img height="384" alt="image" src="https://github.com/user-attachments/assets/326e16cd-42f5-448e-9211-4dc197b9b404" />
 <img height="384" alt="image" src="https://github.com/user-attachments/assets/95364ae0-40f4-4fb5-8a46-688101de37cf" />
