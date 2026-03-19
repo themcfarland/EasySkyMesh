@@ -11,7 +11,7 @@
 * You should feel no difference and no delay compared to the stock MeshCore v1.14.
 
 Notes:
-* Heltec v4: Need to monitor stability on battery and iPhone. May stuck at 50mA. May be due to my power suplly.
+* Heltec v4: Need to monitor stability on battery and iPhone. May stuck at 50mA. May be due to my power suplly. Seem fine on USB power.
 * Heltec v3: Stable on battery / usb cable with Android phone.
 
 <img height="384" alt="image" src="https://github.com/user-attachments/assets/b6d96d71-fb78-46bd-a134-51c34a8a79be" />
